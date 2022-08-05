@@ -4,7 +4,7 @@
           <a href="https://hone.gg/">Hone</a> owned by <a href="https://auraside.com/">Auraside.inc</a><h3/>
 
 - 📫
-  Discord:Ashvinth#2726
+  Discord: Ashvinth#2726
 -                   
 
 <!---
