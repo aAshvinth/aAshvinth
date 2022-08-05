@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aAshvinth
+- 👋 <h1>Hi, I’m Ashvinth<h/>
 - 👀 I’m interested in scripts/programming
 - 🌱 I’m currently learning Python
 - 📫 How to reach me = Discord(Ashvinth#2726)
