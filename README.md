@@ -5,6 +5,9 @@
 ## Contact Information
 
  📫 If you'd like to get in touch with me, feel free to reach out on Discord at Ashvinth#2726.
+ 
+ [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg)](https://www.buymeacoffee.com/Ashvinth)
+
 
 # About Me
 
