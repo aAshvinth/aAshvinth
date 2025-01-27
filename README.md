@@ -1,6 +1,6 @@
 # Introduction
 
-👋 Hello there, I'm Ashvinth! I'm interested in scripts/programming, and I'm currently learning Python. So far, I have experience with Python and a little bit of batch scripting. I'm also a staff member for Hone, owned by Auraside Inc.
+👋 Hello there, I'm Ashvinth! I'm interested in scripts/programming, and I'm currently learning Python. So far, I have experience with Python and a little bit of batch scripting. 
 
 ## Contact Information
 
